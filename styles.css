@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
@@ -960,7 +960,6 @@
       .skills-grid { grid-template-columns: 1fr; }
     }
 
-=======
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
@@ -1921,5 +1920,3 @@
       .stats-inner { grid-template-columns: 1fr 1fr; }
       .skills-grid { grid-template-columns: 1fr; }
     }
-
->>>>>>> d9cec6b8bc14003477d1fc030daeb870c782013a
